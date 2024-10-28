@@ -1,1 +1,1 @@
-Server-FREE:0.tcp.ap.ngrok.io:17907:0:0
+Online:nso.duckdns.org:14444:0:0,Lan:192.168.1.6:14444:0:0
