@@ -1,1 +1,1 @@
-Online:nso.duckdns.org:14444:0:0;Lan:192.168.1.6:14444:0:0
+FREE:nso.duckdns.org:14444:0:0
